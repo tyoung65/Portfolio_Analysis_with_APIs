@@ -6,17 +6,6 @@
 
 The transaction data shows that the largest expense category is for transfers. Using the data received from PLaid Income Analysis, the client's current monthly income cannot support the monthly expenses for the account. 
 
-![Categories by Amount](C:\Users\tmyou\OneDrive\Pictures\categories_by_amount_api_homework)
-
-
-
-
-
-
-
-
-
-
 
 
 #### Retirement Planning: 
