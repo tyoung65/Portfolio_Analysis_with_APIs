@@ -1,10 +1,10 @@
-# Retail Portfolio Analysis
+# Retail Portfolio Analysis with Plaid API
 
 ## Financial Report
 
 #### Budget Analysis: 
 
-The transaction data shows that the largest expense category is for transfers. Using the data received from PLaid Income Analysis, the client's current monthly income cannot support the monthly expenses for the account. 
+The transaction data shows that the largest expense category is for transfers. Using the data received from Plaid Income Analysis, the client's current monthly income cannot support the monthly expenses for the account. 
 
 
 
