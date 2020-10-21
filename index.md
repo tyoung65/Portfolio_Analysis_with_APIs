@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Portfolio Analysis with APIs
 
 You can use the [editor on GitHub](https://github.com/tyoung65/Portfolio_Analysis_with_APIs/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Portfolio Return Projection](https://github.com/tyoung65/Portfolio_Analysis_with_APIs/blob/master/portfolio_return_projection.png)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
