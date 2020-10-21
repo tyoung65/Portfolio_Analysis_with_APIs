@@ -7,4 +7,4 @@ When analyzing the data for Harold's retirment portfolio, the risk of the portfo
 
 ---
 ##### Portfolio with 60% invested in SPY and 40% in AGG
-![Image](https://github.com/tyoung65/Portfolio_Analysis_with_APIs/blob/master/portfolio_return_projection.png)
+![Image](https://github.com/tyoung65/Portfolio_Analysis_with_APIs/blob/master/portfolio_return_projection.png?raw=true)
