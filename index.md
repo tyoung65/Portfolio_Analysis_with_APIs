@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Portfolio Return Projection](https://github.com/tyoung65/Portfolio_Analysis_with_APIs/blob/master/portfolio_return_projection.png)
+[Link](url) and ![Portfolio Return Projection](portfolio_return_projection.png)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
